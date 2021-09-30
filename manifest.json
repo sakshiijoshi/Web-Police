@@ -11,8 +11,8 @@
 },
 "content_scripts":[{"matches":["https://www.lorealparis.co.in/*","https://www.esteelauder.in/*","https://www.maccosmetics.in/*","https://www.rimmellondon.com/en-us"],"js":["jquery-3.6.0.min.js","cosm.js"]},
 {"matches":["https://www.schwarzkopf.com/*"],"js":["jquery-3.6.0.min.js","hair.js"]},
-{"matches":["https://www.sunchemical.com/"],"js":["jquery-3.6.0.min.js","dye.js"]},
-{"matches":["https://www.bmw.in/*","https://www.vauxhall.co.uk","https://www.audi.in/in/web/en.html"],"js":["jquery-3.6.0.min.js","car.js"]},
+{"matches":["https://www.sunchemical.com/*"],"js":["jquery-3.6.0.min.js","dye.js"]},
+{"matches":["https://www.bmw.in/*","https://www.audi.in/*"],"js":["jquery-3.6.0.min.js","cars.js"]},
 {"matches":["https://www.esteelauder.in/","https://in.pg.com/"],"js":["jquery-3.6.0.min.js","cosm1.js"]}],
 "permissions":["activeTab","storage"]
 }
