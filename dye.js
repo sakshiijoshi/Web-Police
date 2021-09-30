@@ -10,7 +10,7 @@ $(function(){
     var iastatus=stat.ia;
     if(iastatus)
     {
-      alert("Here are some indian alternative: https://www.disguisecosmetics.com https://rubysorganics.in/ https://www.soultree.in/ https://www.forestessentialsindia.com/ https://barenecessities.in/ https://www.justherbs.in/");
+      alert("Here is an indian alternative: https://www.toyoinkindia.com/about ");
     }
   });
 });
